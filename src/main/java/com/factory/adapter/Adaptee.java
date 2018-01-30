@@ -5,6 +5,6 @@ package com.factory.adapter;
  */
 public class Adaptee {
     public void specificRequest() {
-        System.out.println("特殊请求");
+        System.out.println("特殊请求1");
     }
 }
